@@ -2,3 +2,5 @@
 requirements.txt
 pyvenv.cfg
 ascii_art.py
+bin
+lib64
